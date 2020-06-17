@@ -1,9 +1,9 @@
 # > KRWeb
-DOMAIN-SUFFIX,etomato.com,KRWebsites
-DOMAIN-SUFFIX,tomatos.co.kr,KRWebsites
-DOMAIN-SUFFIX,newstomato.com,KRWebsites
-DOMAIN-SUFFIX,otongtong.net,KRWebsites
-DOMAIN-SUFFIX,naver.com,KRWebsites
-DOMAIN-SUFFIX,pstatic.net,KRWebsites
-DOMAIN-SUFFIX,etomato.com,KRWebsites
-DOMAIN-SUFFIX,etomato.com,KRWebsites
+DOMAIN-SUFFIX,etomato.com,KRWeb
+DOMAIN-SUFFIX,tomatos.co.kr,KRWeb
+DOMAIN-SUFFIX,newstomato.com,KRWeb
+DOMAIN-SUFFIX,otongtong.net,KRWeb
+DOMAIN-SUFFIX,naver.com,KRWeb
+DOMAIN-SUFFIX,pstatic.net,KRWeb
+DOMAIN-SUFFIX,etomato.com,KRWeb
+DOMAIN-SUFFIX,etomato.com,KRWeb
