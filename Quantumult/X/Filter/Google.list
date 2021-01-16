@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,x.company,Google
 DOMAIN-SUFFIX,youtu.be,Google
 DOMAIN-SUFFIX,yt.be,Google
 DOMAIN-SUFFIX,ytimg.com,Google
+
+DOMAIN-SUFFIX,google.cn,Google
+
 # (DNS Cache Pollution Protection)
 DOMAIN-SUFFIX,appspot.com,Google
 DOMAIN-SUFFIX,blogger.com,Google
