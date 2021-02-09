@@ -5,4 +5,4 @@ DOMAIN-SUFFIX,clubhouseapi.com,clubhouse
 DOMAIN,clubhouseprod.s3.amazonaws.com,clubhouse 
 DOMAIN,clubhouse.pubnub.com,clubhouse 
 DOMAIN,maintenance.joinclubhouse.com,clubhouse 
-DOMAIN-KEYWORD,clubhouse
+DOMAIN-KEYWORD,clubhouse,clubhouse 
