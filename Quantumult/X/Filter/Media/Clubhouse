@@ -1,4 +1,9 @@
 # > Clubhouse
 
-DOMAIN-SUFFIX,clubhouseapi.com,Clubhouse
-DOMAIN-SUFFIX,clubhouse.pubnub.com,Clubhouse
+USER-AGENT,Clubhouse*
+IP-CIDR,52.52.84.170/32,no-resolve
+DOMAIN,www.clubhouseapi.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,maintenance.joinclubhouse.com
+DOMAIN-KEYWORD,clubhouse
