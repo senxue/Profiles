@@ -1,7 +1,8 @@
 # > Clubhouse
 
-DOMAIN-SUFFIX,clubhouseapi.com,Clubhouse 
-DOMAIN,clubhouseprod.s3.amazonaws.com,Clubhouse 
-DOMAIN,clubhouse.pubnub.com,Clubhouse 
-DOMAIN,maintenance.joinclubhouse.com,Clubhouse 
+USER-AGENT,Clubhouse*,Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com,Clubhouse
+DOMAIN-SUFFIX,joinclubhouse.com,Clubhouse
+DOMAIN,clubhouseprod.s3.amazonaws.com,Clubhouse
+DOMAIN,clubhouse.pubnub.com,Clubhouse
 DOMAIN-KEYWORD,clubhouse,Clubhouse
