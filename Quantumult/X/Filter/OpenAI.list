@@ -2,12 +2,12 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-04-07 14:52:57
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 3
+# HOST: 3
+# HOST-SUFFIX: 3
 # TOTAL: 6
-DOMAIN,cdn.auth0.com
-DOMAIN,challenges.cloudflare.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,openai.com
+HOST,cdn.auth0.com,OpenAI
+HOST,challenges.cloudflare.com,OpenAI
+HOST,openaiapi-site.azureedge.net,OpenAI
+HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,identrust.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
